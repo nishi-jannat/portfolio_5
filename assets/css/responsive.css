@@ -1,0 +1,302 @@
+
+@media only screen and (min-width:1400px) and (max-width:1650px) {
+    .hero-content-img {
+        max-width: 600px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .hero-content-img {
+        max-width: 500px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .hero-content-img {
+        max-width: 420px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content-img {
+        max-width: 380px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content-img {
+        display: none
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1650px) {
+    .hero-content {
+        max-width: 570px;
+        padding: 50px 30px;
+        margin-left: -75px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .hero-content {
+        max-width: 500px;
+        padding: 30px 20px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content-wrapper {
+        display: block;
+        height: auto;
+        margin-top: 180px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px),
+only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content {
+        max-width: 400px;
+        padding: 20px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content {
+        padding: 20px;
+        margin-left: 0
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .hero-content {
+        padding: 30px
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1650px) {
+    .hero-content h2 {
+        font-size: 50px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .hero-content h2 {
+        font-size: 40px;
+        margin-top: 35px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .hero-content h2 {
+        font-size: 40px;
+        margin-top: 10px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content h2 {
+        font-size: 40px;
+        margin-top: 0
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content h2 {
+        font-size: 30px;
+        right: 10px;
+        top: -40px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content-wrap {
+        display: block
+    }
+}
+@media(max-width:767px) {
+    .hero-content h2 {
+        font-size: 40px;
+        top: -50px
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1650px) {
+    .hero-content h1 {
+        font-size: 45px;
+        margin-bottom: 20px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .hero-content h1 {
+        font-size: 40px;
+        margin-bottom: 20px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .hero-content h1 {
+        font-size: 35px;
+        margin-bottom: 20px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content h1 {
+        font-size: 30px;
+        margin-bottom: 20px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content h1 {
+        font-size: 25px;
+        margin-bottom: 20px
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .hero-content h1 {
+        font-size: 45px
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1650px) {
+    .hero-content h1 span {
+        font-size: 55px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .hero-content h1 span {
+        font-size: 48px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .hero-content h1 span {
+        font-size: 42px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content h1 span {
+        font-size: 36px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content h1 span {
+        font-size: 30px
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .hero-content h1 span {
+        font-size: 55px
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1650px) {
+    .hero-content p {
+        margin-bottom: 30px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    .hero-content p {
+        line-height: initial;
+        margin-bottom: 20px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px),
+only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content p {
+        font-size: 14px;
+        line-height: initial;
+        margin-bottom: 20px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content p {
+        font-size: 13px;
+        line-height: initial;
+        margin-bottom: 20px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content p {
+        font-size: 15px
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .hero-content a {
+        font-size: 15px;
+        min-width: 160px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content a {
+        font-size: 14px;
+        min-width: 150px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content a {
+        font-size: 13px;
+        min-width: 130px
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .hero-content a {
+        font-size: 16px;
+        min-width: 150px
+    }
+}
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content a.about-btn {
+        margin-right: 10px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content a.about-btn {
+        margin: 0
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .hero-content a.about-btn {
+        margin-right: 15px
+    }
+}
+
+.hero-content a.work-btn {
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    margin-left: 15px
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .hero-content a.work-btn {
+        margin-left: 10px
+    }
+}
+
+@media(max-width:767px) {
+    .hero-content a.work-btn {
+        margin: 0
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767px) {
+    .hero-content a.work-btn {
+        margin-right: 15px
+    }
+}
